@@ -1,0 +1,46 @@
+body {
+    background-color: lightgray;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background-color: darkblue;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    padding-left: 40px
+}
+
+h1 {
+    color: #ffffff;
+    padding: 8px;   
+}
+
+.form-data {
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    padding: 40px 30px;
+    background-color: white;
+}
+
+input {
+    width: 40%;
+}
+
+legend {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.create-new-account{
+    padding: 8px; 
+    font-size:17px; 
+    color:white; 
+    cursor: pointer; 
+    background-color: green;
+    text-decoration: none;
+    border: 1px solid green;
+}
